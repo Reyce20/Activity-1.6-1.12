@@ -92,7 +92,7 @@ const fontLoader = new FontLoader();
 
 fontLoader.load('/fonts/helvetiker_regular.typeface.json', (font) => {
     // Text
-    const textGeometry = new TextGeometry('Sychae Enriquez', {
+    const textGeometry = new TextGeometry('Ace Virgel Abucayon', {
         font: font,
         size: 0.5,
         height: 0.2,
